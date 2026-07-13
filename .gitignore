@@ -1,0 +1,13 @@
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Arquivos de dependências
+node_modules/
+vendor/
+.env
+
+# Arquivos temporários
+*.tmp
+*.log
+.vscode/
